@@ -99,7 +99,41 @@ The system uses 8 interconnected tables:
    php artisan serve
    ```
 
-## 👥 Default Credentials
+## � Project Structure
+
+```
+hospital-management-system/
+├── app/                    # Laravel application files
+├── database/              # Migrations, seeders, factories
+├── resources/             # Views, CSS, JS files
+├── routes/                # Application routes
+├── sample-data/           # Sample Excel/CSV files for testing
+│   ├── data dokter.csv    # Sample doctor data
+│   ├── data dokter.xlsx   # Sample doctor data (Excel)
+│   ├── data pasien.csv    # Sample patient data
+│   ├── jadwal dokter.csv  # Sample schedule data
+│   └── README.md          # Sample data documentation
+├── setup-files/           # Composer setup files
+│   ├── composer-setup.php # Composer installer
+│   ├── composer.phar      # Composer executable
+│   └── README.md          # Setup instructions
+├── dokumentasi.md         # Complete technical documentation
+└── README.md              # This file
+```
+
+## 🧪 Testing with Sample Data
+
+The `sample-data/` folder contains ready-to-use Excel and CSV files for testing the import functionality:
+
+1. **Login as admin** (admin@hospital.com / password)
+2. **Navigate to Import** (`/import`)
+3. **Upload sample files**:
+   - `data dokter.csv` or `data dokter.xlsx` - For doctor import
+   - `data pasien.csv` - For patient import  
+   - `jadwal dokter.csv` - For schedule import
+4. **Verify imported data** in respective management sections
+
+## �👥 Default Credentials
 
 - **Admin**: admin@hospital.com / password
 - **User**: user@hospital.com / password

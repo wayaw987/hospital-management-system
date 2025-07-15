@@ -1,0 +1,5 @@
+Nama,Email,Telepon,Spesialisasi,Alamat,Tanggal Lahir,Jenis Kelamin,Nomor Izin Praktek,Tahun Pengalaman,Biaya Konsultasi,Pendidikan
+Dr. Ahmad Santoso,ahmad.santoso@hospital.com,081234567890,Kardiologi,Jl. Sehat No. 123 Jakarta,1980-05-15,male,DOC001,15,250000,S1 Kedokteran Universitas Indonesia - Sp.Jantung
+Dr. Sari Dewi,sari.dewi@hospital.com,081234567891,Pediatri,Jl. Anak Sehat No. 456 Jakarta,1985-08-20,female,DOC002,10,200000,S1 Kedokteran Universitas Gadjah Mada - Sp.Anak
+Dr. Budi Prasetyo,budi.prasetyo@hospital.com,081234567892,Neurologi,Jl. Otak Sehat No. 789 Jakarta,1978-12-10,male,DOC003,18,300000,S1 Kedokteran Universitas Airlangga - Sp.Saraf
+Dr. Maya Indah,maya.indah@hospital.com,081234567893,Ginekologi,Jl. Wanita Sehat No. 321 Jakarta,1982-03-25,female,DOC004,12,225000,S1 Kedokteran Universitas Padjadjaran - Sp.Kandungan

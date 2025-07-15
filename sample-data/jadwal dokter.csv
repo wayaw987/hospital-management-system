@@ -1,0 +1,15 @@
+Nama/Email Dokter,Hari,Jam Mulai,Jam Selesai,Nomor Ruang,Catatan
+Dr. Ahmad Santoso,monday,08:00,12:00,R101,Konsultasi Jantung Senin Pagi
+Dr. Ahmad Santoso,wednesday,14:00,18:00,R101,Konsultasi Jantung Rabu Sore
+Dr. Ahmad Santoso,friday,08:00,12:00,R101,Konsultasi Jantung Jumat Pagi
+Dr. Sari Dewi,monday,14:00,18:00,R102,Konsultasi Anak Senin Sore
+Dr. Sari Dewi,tuesday,08:00,12:00,R102,Konsultasi Anak Selasa Pagi
+Dr. Sari Dewi,thursday,14:00,18:00,R102,Konsultasi Anak Kamis Sore
+Dr. Sari Dewi,saturday,08:00,12:00,R102,Konsultasi Anak Sabtu Pagi
+Dr. Budi Prasetyo,tuesday,14:00,18:00,R103,Konsultasi Saraf Selasa Sore
+Dr. Budi Prasetyo,wednesday,08:00,12:00,R103,Konsultasi Saraf Rabu Pagi
+Dr. Budi Prasetyo,friday,14:00,18:00,R103,Konsultasi Saraf Jumat Sore
+Dr. Maya Indah,monday,08:00,12:00,R104,Konsultasi Kandungan Senin Pagi
+Dr. Maya Indah,wednesday,14:00,18:00,R104,Konsultasi Kandungan Rabu Sore
+Dr. Maya Indah,thursday,08:00,12:00,R104,Konsultasi Kandungan Kamis Pagi
+Dr. Maya Indah,saturday,14:00,18:00,R104,Konsultasi Kandungan Sabtu Sore
